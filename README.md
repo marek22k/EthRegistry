@@ -7,3 +7,4 @@ The following gems are needed:
 - ethereum.rb
 
 Execute with:
+    ruby main.rb
