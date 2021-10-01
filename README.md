@@ -12,10 +12,12 @@ ruby main.rb
 ```
 
 ## Contract addresses
-- cheapETH: ```0x735954982e500db6809792dec536684ffd2bb0d6```
-- KuCoin Community Chain (KCC): ```0x91aa912ba3fba5983df77b5d5b194a05704574fb```
-- Polygon: ```0x79280ea1de810cb0678396153cc8511d9c3e6626```
-- Binance Smart Chain: ```0x4E30DDcAa6c2D59809bDf96Cc8109f222c25fD15```
+| Blockchain                   | Contract                                         |
+|------------------------------|--------------------------------------------------|
+| cheapETH                     | ```0x735954982e500db6809792dec536684ffd2bb0d6``` |
+| KuCoin Community Chain (KCC) | ```0x91aa912ba3fba5983df77b5d5b194a05704574fb``` |
+| Polygon                      | ```0x79280ea1de810cb0678396153cc8511d9c3e6626``` |
+| Binance Smart Chain (BSC)    | ```0x4E30DDcAa6c2D59809bDf96Cc8109f222c25fD15``` |
 
 Entries are **not** synced between blockchains.
 
