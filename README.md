@@ -7,26 +7,25 @@ The following gems are needed:
 - ethereum.rb
 
 Execute with:
-```
-ruby main.rb
-```
-## Contract addresses
-cheapETH: 0x735954982e500db6809792dec536684ffd2bb0d6
-KuCoin Community Chain (KCC): 0x91aa912ba3fba5983df77b5d5b194a05704574fb
-Polygon: 0x79280ea1de810cb0678396153cc8511d9c3e6626
-Binance Smart Chain: 0x4E30DDcAa6c2D59809bDf96Cc8109f222c25fD15
+  ruby main.rb
 
-Entries are *not* synced between blockchains.
+## Contract addresses
+cheapETH:
+  0x735954982e500db6809792dec536684ffd2bb0d6
+KuCoin Community Chain (KCC):
+  0x91aa912ba3fba5983df77b5d5b194a05704574fb
+Polygon:
+  0x79280ea1de810cb0678396153cc8511d9c3e6626
+Binance Smart Chain:
+  0x4E30DDcAa6c2D59809bDf96Cc8109f222c25fD15
+
+Entries are **not** synced between blockchains.
 
 ## Change Blockchain
 For this purpose two lines have to be edited. Once the line for the Smart Contract and once the line with the RPC interface.
 
 main.rb line 6:
-```
-$contract_addr = "[Contract address (see above)]"
-```
+  $contract_addr = "[Contract address (see above)]"
 
 CheapEth.rb line 10:
-```
-@rpc_client = Ethereum::HttpClient.new("[RPC url]")
-```
+  @rpc_client = Ethereum::HttpClient.new("[RPC url]")
