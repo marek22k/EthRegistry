@@ -20,7 +20,7 @@ ruby main.rb
 | Binance Smart Chain (BSC)    | ```0x4E30DDcAa6c2D59809bDf96Cc8109f222c25fD15``` |
 
 Entries are **not** synced between blockchains.
-Contract uploaded from 0x055860064Ec3824172da977b021224C057307a28 .
+Contract uploaded from ```0x055860064Ec3824172da977b021224C057307a28``` .
 
 ## Change Blockchain
 For this purpose two lines have to be edited. Once the line for the Smart Contract and once the line with the RPC interface.
