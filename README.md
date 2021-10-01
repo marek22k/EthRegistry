@@ -18,6 +18,7 @@ ruby main.rb
 | KuCoin Community Chain (KCC) | ```0x91aa912ba3fba5983df77b5d5b194a05704574fb``` |
 | Polygon                      | ```0x79280ea1de810cb0678396153cc8511d9c3e6626``` |
 | Binance Smart Chain (BSC)    | ```0x4E30DDcAa6c2D59809bDf96Cc8109f222c25fD15``` |
+| Avalanche C-Chain            | ```0x8b0d3Bb22df3420FFf61Fd4B24b89C908aB60cb6``` |
 
 Entries are **not** synced between blockchains.
 Contract uploaded from ```0x055860064Ec3824172da977b021224C057307a28``` .
