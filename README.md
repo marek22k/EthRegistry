@@ -19,9 +19,10 @@ ruby main.rb
 | Polygon                      | ```0x79280ea1de810cb0678396153cc8511d9c3e6626``` |
 | Binance Smart Chain (BSC)    | ```0x4E30DDcAa6c2D59809bDf96Cc8109f222c25fD15``` |
 | Avalanche C-Chain            | ```0x8b0d3Bb22df3420FFf61Fd4B24b89C908aB60cb6``` |
+| Fantom                       | ```0xdd2d2C4b05E30C9168aBeCf232D85C122399E1D3``` |
 
 Entries are **not** synced between blockchains.
-Contract uploaded from ```0x055860064Ec3824172da977b021224C057307a28``` .
+Contract uploaded from ```0x055860064Ec3824172da977b021224C057307a28``` or ```0xFD89A085BE1a6a6A4f395fF4cFb1b7065d4aCf1b```.
 
 ## Change Blockchain
 For this purpose two lines have to be edited. Once the line for the Smart Contract and once the line with the RPC interface.
