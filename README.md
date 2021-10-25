@@ -21,6 +21,7 @@ ruby main.rb
 | Binance Smart Chain (BSC)    | ```0x4E30DDcAa6c2D59809bDf96Cc8109f222c25fD15``` |
 | Avalanche C-Chain            | ```0x8b0d3Bb22df3420FFf61Fd4B24b89C908aB60cb6``` |
 | Fantom                       | ```0x8b0d3Bb22df3420FFf61Fd4B24b89C908aB60cb6``` |
+| bloxberg                     | ```0xC92a2CCfF02B3785A518808BbfC1C8e097216a35``` |
 
 Entries are **not** synced between blockchains.
 Contract uploaded from ```0x055860064Ec3824172da977b021224C057307a28```.
