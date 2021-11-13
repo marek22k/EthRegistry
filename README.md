@@ -22,6 +22,8 @@ ruby main.rb
 | Avalanche C-Chain            | ```0x8b0d3Bb22df3420FFf61Fd4B24b89C908aB60cb6``` |
 | Fantom                       | ```0x8b0d3Bb22df3420FFf61Fd4B24b89C908aB60cb6``` |
 | bloxberg                     | ```0xC92a2CCfF02B3785A518808BbfC1C8e097216a35``` |
+| xDAI Chain                   | ```0x8b0d3Bb22df3420FFf61Fd4B24b89C908aB60cb6``` |
+| Polis Olympus                | ```0x71c16A82aeF871A89de2d0559804ca6DcE0603D5``` |
 
 Entries are **not** synced between blockchains.
 Contract uploaded from ```0x055860064Ec3824172da977b021224C057307a28```.
