@@ -27,6 +27,7 @@ ruby main.rb
 | Harmony ONE                  | ```0x8b0d3Bb22df3420FFf61Fd4B24b89C908aB60cb6``` |
 | Fuse Mainnet                 | ```0x8b0d3Bb22df3420FFf61Fd4B24b89C908aB60cb6``` |
 | Zyx Network                  | ```0x8b0d3Bb22df3420FFf61Fd4B24b89C908aB60cb6``` |
+| Theta Mainnet                | ```0x8b0d3bb22df3420fff61fd4b24b89c908ab60cb6``` |
 
 Entries are **not** synced between blockchains.
 Contract uploaded from ```0x055860064Ec3824172da977b021224C057307a28```.
